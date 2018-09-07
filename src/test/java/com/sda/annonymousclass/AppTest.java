@@ -1,4 +1,4 @@
-package com.sda.annonymusclass;
+package com.sda.annonymousclass;
 
 import static org.junit.Assert.assertTrue;
 
